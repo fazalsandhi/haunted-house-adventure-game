@@ -24,7 +24,7 @@ Follow the steps below to get the game up and running on your local machine.
 Clone the repository to your local machine using the command below:
 
 ```bash
-git clone https://github.com/yourusername/haunted-house-adventure-game.git
+git clone https://github.com/fazalsandhi/haunted-house-adventure-game.git
 ```
 
 ### Step 2: Navigate to the Project Directory
